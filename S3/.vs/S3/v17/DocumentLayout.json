@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\S3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{170BA91B-A355-4F20-B3FC-E1A8095C9F84}|S3.csproj|c:\\users\\maria\\desktop\\funda de sistemas - talleres\\s3\\forms\\formreporteelectrodomesticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170BA91B-A355-4F20-B3FC-E1A8095C9F84}|S3.csproj|solutionrelative:forms\\formreporteelectrodomesticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170BA91B-A355-4F20-B3FC-E1A8095C9F84}|S3.csproj|c:\\users\\maria\\desktop\\funda de sistemas - talleres\\s3\\controllers\\electrodomesticocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170BA91B-A355-4F20-B3FC-E1A8095C9F84}|S3.csproj|solutionrelative:controllers\\electrodomesticocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170BA91B-A355-4F20-B3FC-E1A8095C9F84}|S3.csproj|c:\\users\\maria\\desktop\\funda de sistemas - talleres\\s3\\forms\\formreporteelectrodomesticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{170BA91B-A355-4F20-B3FC-E1A8095C9F84}|S3.csproj|solutionrelative:forms\\formreporteelectrodomesticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170BA91B-A355-4F20-B3FC-E1A8095C9F84}|S3.csproj|c:\\users\\maria\\desktop\\funda de sistemas - talleres\\s3\\forms\\formelectrodomestico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{170BA91B-A355-4F20-B3FC-E1A8095C9F84}|S3.csproj|solutionrelative:forms\\formelectrodomestico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170BA91B-A355-4F20-B3FC-E1A8095C9F84}|S3.csproj|c:\\users\\maria\\desktop\\funda de sistemas - talleres\\s3\\forms\\formelectrodomestico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170BA91B-A355-4F20-B3FC-E1A8095C9F84}|S3.csproj|solutionrelative:forms\\formelectrodomestico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170BA91B-A355-4F20-B3FC-E1A8095C9F84}|S3.csproj|c:\\users\\maria\\desktop\\funda de sistemas - talleres\\s3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170BA91B-A355-4F20-B3FC-E1A8095C9F84}|S3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170BA91B-A355-4F20-B3FC-E1A8095C9F84}|S3.csproj|c:\\users\\maria\\desktop\\funda de sistemas - talleres\\s3\\forms\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{170BA91B-A355-4F20-B3FC-E1A8095C9F84}|S3.csproj|solutionrelative:forms\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170BA91B-A355-4F20-B3FC-E1A8095C9F84}|S3.csproj|c:\\users\\maria\\desktop\\funda de sistemas - talleres\\s3\\forms\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170BA91B-A355-4F20-B3FC-E1A8095C9F84}|S3.csproj|solutionrelative:forms\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170BA91B-A355-4F20-B3FC-E1A8095C9F84}|S3.csproj|c:\\users\\maria\\desktop\\funda de sistemas - talleres\\s3\\entities\\electrodomestico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170BA91B-A355-4F20-B3FC-E1A8095C9F84}|S3.csproj|solutionrelative:entities\\electrodomestico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormReporteElectrodomesticos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\S3\\forms\\FormReporteElectrodomesticos.cs",
+              "RelativeDocumentMoniker": "forms\\FormReporteElectrodomesticos.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\S3\\forms\\FormReporteElectrodomesticos.cs [Design]",
+              "RelativeToolTip": "forms\\FormReporteElectrodomesticos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T04:51:54.165Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\S3\\forms\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "forms\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\S3\\forms\\FormPrincipal.cs",
+              "RelativeToolTip": "forms\\FormPrincipal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:17:26.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormElectrodomestico.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\S3\\forms\\FormElectrodomestico.cs",
+              "RelativeDocumentMoniker": "forms\\FormElectrodomestico.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\S3\\forms\\FormElectrodomestico.cs",
+              "RelativeToolTip": "forms\\FormElectrodomestico.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAowGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T23:43:51.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormReporteElectrodomesticos.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\S3\\forms\\FormReporteElectrodomesticos.cs",
+              "RelativeDocumentMoniker": "forms\\FormReporteElectrodomesticos.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\S3\\forms\\FormReporteElectrodomesticos.cs",
+              "RelativeToolTip": "forms\\FormReporteElectrodomesticos.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:04:11.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormElectrodomestico.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\S3\\forms\\FormElectrodomestico.cs",
+              "RelativeDocumentMoniker": "forms\\FormElectrodomestico.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\S3\\forms\\FormElectrodomestico.cs [Design]",
+              "RelativeToolTip": "forms\\FormElectrodomestico.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T23:07:46.293Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElectrodomesticoController.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\S3\\controllers\\ElectrodomesticoController.cs",
+              "RelativeDocumentMoniker": "controllers\\ElectrodomesticoController.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\S3\\controllers\\ElectrodomesticoController.cs",
+              "RelativeToolTip": "controllers\\ElectrodomesticoController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAA7wFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T23:24:17.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\S3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\S3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T23:27:22.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\S3\\forms\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "forms\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\S3\\forms\\FormPrincipal.cs [Design]",
+              "RelativeToolTip": "forms\\FormPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:11:12.82Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Electrodomestico.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\S3\\entities\\Electrodomestico.cs",
+              "RelativeDocumentMoniker": "entities\\Electrodomestico.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\S3\\entities\\Electrodomestico.cs",
+              "RelativeToolTip": "entities\\Electrodomestico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T23:23:58.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

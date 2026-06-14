@@ -1,0 +1,14 @@
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\semana66\semana66\bin\Debug\semana66.exe.config
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\semana66\semana66\bin\Debug\semana66.exe
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\semana66\semana66\bin\Debug\semana66.pdb
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\semana66\semana66\obj\Debug\semana66.csproj.AssemblyReference.cache
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\semana66\semana66\obj\Debug\semana66.Properties.Resources.resources
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\semana66\semana66\obj\Debug\semana66.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\semana66\semana66\obj\Debug\semana66.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\semana66\semana66\obj\Debug\semana66.exe
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\semana66\semana66\obj\Debug\semana66.pdb
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\semana66\semana66\obj\Debug\semana66.exe.config
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\semana66\semana66\obj\Debug\semana66.forms.FormProfesor.resources
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\semana66\semana66\obj\Debug\semana66.forms.FormCurso.resources
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\semana66\semana66\obj\Debug\semana66.forms.FormPrincipal.resources
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\semana66\semana66\obj\Debug\semana66.forms.FormReporte.resources

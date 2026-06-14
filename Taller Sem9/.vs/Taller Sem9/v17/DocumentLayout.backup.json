@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D68E74EF-A982-498A-B88F-5F92B6F1CD4C}|Datos\\Datos.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\datos\\dempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68E74EF-A982-498A-B88F-5F92B6F1CD4C}|Datos\\Datos.csproj|solutionrelative:datos\\dempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083979E8-FDC3-49EF-9BCB-2E187B98206F}|Negocio\\Negocio.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\negocio\\nreunion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083979E8-FDC3-49EF-9BCB-2E187B98206F}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nreunion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{083979E8-FDC3-49EF-9BCB-2E187B98206F}|Negocio\\Negocio.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\negocio\\nempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{083979E8-FDC3-49EF-9BCB-2E187B98206F}|Negocio\\Negocio.csproj|solutionrelative:negocio\\nempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE75EED3-F627-48DC-9FAE-F0D0F7861E86}|Entidades\\Entidades.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\entidades\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE75EED3-F627-48DC-9FAE-F0D0F7861E86}|Entidades\\Entidades.csproj|solutionrelative:entidades\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC00FE2-97D5-4536-B29C-DF12838FAA6F}|Presentacion\\Presentacion.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\presentacion\\windowreunion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2AC00FE2-97D5-4536-B29C-DF12838FAA6F}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\windowreunion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC00FE2-97D5-4536-B29C-DF12838FAA6F}|Presentacion\\Presentacion.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\presentacion\\windowempleado.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2AC00FE2-97D5-4536-B29C-DF12838FAA6F}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\windowempleado.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC00FE2-97D5-4536-B29C-DF12838FAA6F}|Presentacion\\Presentacion.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\presentacion\\windowprincipal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2AC00FE2-97D5-4536-B29C-DF12838FAA6F}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\windowprincipal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC00FE2-97D5-4536-B29C-DF12838FAA6F}|Presentacion\\Presentacion.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\presentacion\\windowreunion.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{2AC00FE2-97D5-4536-B29C-DF12838FAA6F}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\windowreunion.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68E74EF-A982-498A-B88F-5F92B6F1CD4C}|Datos\\Datos.csproj|c:\\users\\mafer\\documents\\talleres-funda\\taller sem9\\datos\\dreunion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68E74EF-A982-498A-B88F-5F92B6F1CD4C}|Datos\\Datos.csproj|solutionrelative:datos\\dreunion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE75EED3-F627-48DC-9FAE-F0D0F7861E86}|Entidades\\Entidades.csproj|c:\\users\\mafer\\documents\\talleres-funda\\taller sem9\\entidades\\reunion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE75EED3-F627-48DC-9FAE-F0D0F7861E86}|Entidades\\Entidades.csproj|solutionrelative:entidades\\reunion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC00FE2-97D5-4536-B29C-DF12838FAA6F}|Presentacion\\Presentacion.csproj|c:\\users\\mafer\\documents\\talleres-funda\\taller sem9\\presentacion\\windowempleado.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC00FE2-97D5-4536-B29C-DF12838FAA6F}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\windowempleado.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC00FE2-97D5-4536-B29C-DF12838FAA6F}|Presentacion\\Presentacion.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\presentacion\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2AC00FE2-97D5-4536-B29C-DF12838FAA6F}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC00FE2-97D5-4536-B29C-DF12838FAA6F}|Presentacion\\Presentacion.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\presentacion\\windowprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC00FE2-97D5-4536-B29C-DF12838FAA6F}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\windowprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WindowReunion.xaml",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\Presentacion\\WindowReunion.xaml",
+              "RelativeDocumentMoniker": "Presentacion\\WindowReunion.xaml",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\Presentacion\\WindowReunion.xaml",
+              "RelativeToolTip": "Presentacion\\WindowReunion.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-02T10:39:21.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\Datos\\DEmpleado.cs",
+              "RelativeDocumentMoniker": "Datos\\DEmpleado.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\Datos\\DEmpleado.cs",
+              "RelativeToolTip": "Datos\\DEmpleado.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T11:11:57.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\Entidades\\Empleado.cs",
+              "RelativeDocumentMoniker": "Entidades\\Empleado.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\Entidades\\Empleado.cs",
+              "RelativeToolTip": "Entidades\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T04:28:58.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\Negocio\\NEmpleado.cs",
+              "RelativeDocumentMoniker": "Negocio\\NEmpleado.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\Negocio\\NEmpleado.cs",
+              "RelativeToolTip": "Negocio\\NEmpleado.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T04:23:28.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NReunion.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\Negocio\\NReunion.cs",
+              "RelativeDocumentMoniker": "Negocio\\NReunion.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\Negocio\\NReunion.cs",
+              "RelativeToolTip": "Negocio\\NReunion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T04:23:37.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WindowEmpleado.xaml",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\Presentacion\\WindowEmpleado.xaml",
+              "RelativeDocumentMoniker": "Presentacion\\WindowEmpleado.xaml",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\Presentacion\\WindowEmpleado.xaml",
+              "RelativeToolTip": "Presentacion\\WindowEmpleado.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-02T10:39:08.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WindowPrincipal.xaml",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\Presentacion\\WindowPrincipal.xaml",
+              "RelativeDocumentMoniker": "Presentacion\\WindowPrincipal.xaml",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\Presentacion\\WindowPrincipal.xaml",
+              "RelativeToolTip": "Presentacion\\WindowPrincipal.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-02T10:36:05.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WindowReunion.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\Presentacion\\WindowReunion.xaml.cs",
+              "RelativeDocumentMoniker": "Presentacion\\WindowReunion.xaml.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\Presentacion\\WindowReunion.xaml.cs",
+              "RelativeToolTip": "Presentacion\\WindowReunion.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAIA1wD8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T11:19:42.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DReunion.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\Datos\\DReunion.cs",
+              "RelativeDocumentMoniker": "Datos\\DReunion.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\Datos\\DReunion.cs",
+              "RelativeToolTip": "Datos\\DReunion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T15:26:32.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WindowEmpleado.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\Presentacion\\WindowEmpleado.xaml.cs",
+              "RelativeDocumentMoniker": "Presentacion\\WindowEmpleado.xaml.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\Presentacion\\WindowEmpleado.xaml.cs",
+              "RelativeToolTip": "Presentacion\\WindowEmpleado.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwD8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T11:05:05.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\Presentacion\\App.xaml",
+              "RelativeDocumentMoniker": "Presentacion\\App.xaml",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\Presentacion\\App.xaml",
+              "RelativeToolTip": "Presentacion\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-02T10:36:13.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Reunion.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\Entidades\\Reunion.cs",
+              "RelativeDocumentMoniker": "Entidades\\Reunion.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\Entidades\\Reunion.cs",
+              "RelativeToolTip": "Entidades\\Reunion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T15:26:35.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WindowPrincipal.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\Presentacion\\WindowPrincipal.xaml.cs",
+              "RelativeDocumentMoniker": "Presentacion\\WindowPrincipal.xaml.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\Taller Sem9\\Presentacion\\WindowPrincipal.xaml.cs",
+              "RelativeToolTip": "Presentacion\\WindowPrincipal.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAD4vxoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T10:46:33.162Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

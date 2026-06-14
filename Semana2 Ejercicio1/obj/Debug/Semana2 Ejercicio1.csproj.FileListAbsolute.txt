@@ -1,0 +1,10 @@
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana2 Ejercicio1\bin\Debug\Semana2 Ejercicio1.exe.config
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana2 Ejercicio1\bin\Debug\Semana2 Ejercicio1.exe
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana2 Ejercicio1\bin\Debug\Semana2 Ejercicio1.pdb
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana2 Ejercicio1\obj\Debug\Semana2 Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana2 Ejercicio1\obj\Debug\Semana2_Ejercicio1.FormAlumno.resources
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana2 Ejercicio1\obj\Debug\Semana2_Ejercicio1.Properties.Resources.resources
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana2 Ejercicio1\obj\Debug\Semana2 Ejercicio1.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana2 Ejercicio1\obj\Debug\Semana2 Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana2 Ejercicio1\obj\Debug\Semana2 Ejercicio1.exe
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana2 Ejercicio1\obj\Debug\Semana2 Ejercicio1.pdb

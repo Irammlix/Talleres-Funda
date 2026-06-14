@@ -1,0 +1,6 @@
+C:\Users\MAFER\Documents\talleres-funda\Taller Sem9\Entidades\bin\Debug\Entidades.dll
+C:\Users\MAFER\Documents\talleres-funda\Taller Sem9\Entidades\bin\Debug\Entidades.pdb
+C:\Users\MAFER\Documents\talleres-funda\Taller Sem9\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\MAFER\Documents\talleres-funda\Taller Sem9\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\MAFER\Documents\talleres-funda\Taller Sem9\Entidades\obj\Debug\Entidades.dll
+C:\Users\MAFER\Documents\talleres-funda\Taller Sem9\Entidades\obj\Debug\Entidades.pdb

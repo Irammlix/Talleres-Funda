@@ -1,0 +1,24 @@
+D:\Nuevos Labs\LabParcialEmpleado\obj\Debug\LabParcialEmpleado.csproj.AssemblyReference.cache
+D:\Nuevos Labs\LabParcialEmpleado\obj\Debug\LabParcialEmpleado.forms.FormEmpleado.resources
+D:\Nuevos Labs\LabParcialEmpleado\obj\Debug\LabParcialEmpleado.FormEmpresa.resources
+D:\Nuevos Labs\LabParcialEmpleado\obj\Debug\LabParcialEmpleado.Properties.Resources.resources
+D:\Nuevos Labs\LabParcialEmpleado\obj\Debug\LabParcialEmpleado.csproj.GenerateResource.cache
+D:\Nuevos Labs\LabParcialEmpleado\obj\Debug\LabParcialEmpleado.csproj.CoreCompileInputs.cache
+D:\Nuevos Labs\LabParcialEmpleado\bin\Debug\LabParcialEmpleado.exe.config
+D:\Nuevos Labs\LabParcialEmpleado\bin\Debug\LabParcialEmpleado.exe
+D:\Nuevos Labs\LabParcialEmpleado\bin\Debug\LabParcialEmpleado.pdb
+D:\Nuevos Labs\LabParcialEmpleado\obj\Debug\LabParcialEmpleado.exe
+D:\Nuevos Labs\LabParcialEmpleado\obj\Debug\LabParcialEmpleado.pdb
+C:\Users\MAFER\Documents\talleres-funda\LabParcialEmpleado - incompleto\bin\Debug\LabParcialEmpleado.exe.config
+C:\Users\MAFER\Documents\talleres-funda\LabParcialEmpleado - incompleto\bin\Debug\LabParcialEmpleado.exe
+C:\Users\MAFER\Documents\talleres-funda\LabParcialEmpleado - incompleto\bin\Debug\LabParcialEmpleado.pdb
+C:\Users\MAFER\Documents\talleres-funda\LabParcialEmpleado - incompleto\obj\Debug\LabParcialEmpleado.csproj.AssemblyReference.cache
+C:\Users\MAFER\Documents\talleres-funda\LabParcialEmpleado - incompleto\obj\Debug\LabParcialEmpleado.exe.config
+C:\Users\MAFER\Documents\talleres-funda\LabParcialEmpleado - incompleto\obj\Debug\LabParcialEmpleado.forms.FormEmpleado.resources
+C:\Users\MAFER\Documents\talleres-funda\LabParcialEmpleado - incompleto\obj\Debug\LabParcialEmpleado.FormEmpresa.resources
+C:\Users\MAFER\Documents\talleres-funda\LabParcialEmpleado - incompleto\obj\Debug\LabParcialEmpleado.forms.FormReporte.resources
+C:\Users\MAFER\Documents\talleres-funda\LabParcialEmpleado - incompleto\obj\Debug\LabParcialEmpleado.Properties.Resources.resources
+C:\Users\MAFER\Documents\talleres-funda\LabParcialEmpleado - incompleto\obj\Debug\LabParcialEmpleado.csproj.GenerateResource.cache
+C:\Users\MAFER\Documents\talleres-funda\LabParcialEmpleado - incompleto\obj\Debug\LabParcialEmpleado.csproj.CoreCompileInputs.cache
+C:\Users\MAFER\Documents\talleres-funda\LabParcialEmpleado - incompleto\obj\Debug\LabParcialEmpleado.exe
+C:\Users\MAFER\Documents\talleres-funda\LabParcialEmpleado - incompleto\obj\Debug\LabParcialEmpleado.pdb

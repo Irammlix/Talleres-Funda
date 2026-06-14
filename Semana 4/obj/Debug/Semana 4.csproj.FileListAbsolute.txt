@@ -1,0 +1,11 @@
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana 4\obj\Debug\Semana 4.csproj.AssemblyReference.cache
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana 4\obj\Debug\Semana_4.FormCoordinador.resources
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana 4\obj\Debug\Semana_4.forms.FormRepartidor.resources
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana 4\obj\Debug\Semana_4.Properties.Resources.resources
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana 4\obj\Debug\Semana 4.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana 4\obj\Debug\Semana 4.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana 4\bin\Debug\Semana 4.exe.config
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana 4\bin\Debug\Semana 4.exe
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana 4\bin\Debug\Semana 4.pdb
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana 4\obj\Debug\Semana 4.exe
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana 4\obj\Debug\Semana 4.pdb

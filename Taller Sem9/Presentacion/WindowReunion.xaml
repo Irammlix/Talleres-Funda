@@ -1,0 +1,27 @@
+﻿<Window x:Class="Presentacion.WindowReunion"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Presentacion"
+        mc:Ignorable="d"
+        Title="WindowReunion" Height="419" Width="757">
+    <Grid Margin="0,0,10,7">
+        <DatePicker x:Name="dtpFecha" HorizontalAlignment="Left" Margin="107,99,0,0" VerticalAlignment="Top" Width="167" SelectedDateFormat="Short"/>
+        <ComboBox x:Name="cbTurno" HorizontalAlignment="Left" Margin="107,153,0,0" VerticalAlignment="Top" Width="167">
+            <ComboBoxItem Content="9am-10am"/>
+            <ComboBoxItem Content="10am-11am"/>
+            <ComboBoxItem Content="3pm--4pm"/>
+        </ComboBox>
+        <TextBox x:Name="tbAsunto" HorizontalAlignment="Left" Margin="107,205,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="167"/>
+        <Label Content="Fecha:" HorizontalAlignment="Left" Margin="41,99,0,0" VerticalAlignment="Top" Width="48"/>
+        <Label Content="Turno:" HorizontalAlignment="Left" Margin="41,146,0,0" VerticalAlignment="Top" Width="48"/>
+        <Label Content="Asunto:" HorizontalAlignment="Left" Margin="41,201,0,0" VerticalAlignment="Top" Width="48"/>
+        <Button x:Name="btnRegistrar" Content="Registrar" HorizontalAlignment="Left" Margin="162,257,0,0" VerticalAlignment="Top" Height="26" Width="112" Click="btnRegistrar_Click"/>
+        <Button x:Name="btnSalir" Content="Salir" HorizontalAlignment="Left" Margin="637,361,0,0" VerticalAlignment="Top" Height="25" Width="100" Click="btnSalir_Click"/>
+        <DataGrid x:Name="dgReuniones" Margin="302,21,10,63"/>
+        <Label Content="Dni Empleado: " HorizontalAlignment="Left" Margin="41,46,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lblDni" Content="-" HorizontalAlignment="Left" Margin="162,46,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+
+    </Grid>
+</Window>

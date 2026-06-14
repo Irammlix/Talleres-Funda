@@ -1,0 +1,28 @@
+﻿using semana66.entities;
+using System;
+using System.Collections.Generic;
+using System.Net.NetworkInformation;
+
+namespace semana66.repositories
+{
+    public class ProfesorRepository
+    {
+        private static List<Profesor> profesores = new List<Profesor>();
+
+        public static List<Profesor> ListarTodo()
+        {
+            return profesores;
+        }
+
+        public bool Existe(string codigoProfesor)
+        {
+            return profesores.Exists(p => p.Codigo.Equals(codigoProfesor));
+        }
+
+        public void Registrar( Profesor profesor)
+        {
+            profesores.Add(profesor);
+        }
+
+    }
+}

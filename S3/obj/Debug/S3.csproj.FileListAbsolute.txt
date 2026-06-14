@@ -1,0 +1,12 @@
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\S3\bin\Debug\S3.exe.config
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\S3\bin\Debug\S3.exe
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\S3\bin\Debug\S3.pdb
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\S3\obj\Debug\S3.csproj.AssemblyReference.cache
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\S3\obj\Debug\S3.FormElectrodomestico.resources
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\S3\obj\Debug\S3.Properties.Resources.resources
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\S3\obj\Debug\S3.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\S3\obj\Debug\S3.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\S3\obj\Debug\S3.exe
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\S3\obj\Debug\S3.pdb
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\S3\obj\Debug\S3.forms.FormReporteElectrodomesticos.resources
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\S3\obj\Debug\S3.forms.FormPrincipal.resources

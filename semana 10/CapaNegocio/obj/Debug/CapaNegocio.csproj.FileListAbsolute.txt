@@ -1,0 +1,12 @@
+C:\Users\MAFER\Documents\talleres-funda\semana 10\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\MAFER\Documents\talleres-funda\semana 10\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\MAFER\Documents\talleres-funda\semana 10\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\MAFER\Documents\talleres-funda\semana 10\CapaNegocio\bin\Debug\EntityFramework.dll
+C:\Users\MAFER\Documents\talleres-funda\semana 10\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\MAFER\Documents\talleres-funda\semana 10\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\MAFER\Documents\talleres-funda\semana 10\CapaNegocio\bin\Debug\EntityFramework.xml
+C:\Users\MAFER\Documents\talleres-funda\semana 10\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\MAFER\Documents\talleres-funda\semana 10\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\MAFER\Documents\talleres-funda\semana 10\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\MAFER\Documents\talleres-funda\semana 10\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\MAFER\Documents\talleres-funda\semana 10\CapaNegocio\obj\Debug\CapaNegocio.pdb

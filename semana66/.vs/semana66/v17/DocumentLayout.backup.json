@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\repositories\\profesorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|solutionrelative:semana66\\repositories\\profesorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\forms\\formreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|solutionrelative:semana66\\forms\\formreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\forms\\formreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|solutionrelative:semana66\\forms\\formreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\services\\reporteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|solutionrelative:semana66\\services\\reporteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|c:\\users\\maria\\desktop\\funda de sistemas - talleres\\semana66\\semana66\\services\\profesorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|solutionrelative:semana66\\services\\profesorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|c:\\users\\maria\\desktop\\funda de sistemas - talleres\\semana66\\semana66\\entities\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|solutionrelative:semana66\\entities\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|c:\\users\\maria\\desktop\\funda de sistemas - talleres\\semana66\\semana66\\repositories\\cursorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|solutionrelative:semana66\\repositories\\cursorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|c:\\users\\maria\\desktop\\funda de sistemas - talleres\\semana66\\semana66\\services\\cursoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|solutionrelative:semana66\\services\\cursoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|c:\\users\\maria\\desktop\\funda de sistemas - talleres\\semana66\\semana66\\entities\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|solutionrelative:semana66\\entities\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|c:\\users\\maria\\desktop\\funda de sistemas - talleres\\semana66\\semana66\\forms\\formprofesor.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|solutionrelative:semana66\\forms\\formprofesor.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|c:\\users\\maria\\desktop\\funda de sistemas - talleres\\semana66\\semana66\\forms\\formcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|solutionrelative:semana66\\forms\\formcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\forms\\formprofesor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|solutionrelative:semana66\\forms\\formprofesor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|c:\\users\\maria\\desktop\\funda de sistemas - talleres\\semana66\\semana66\\forms\\formcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|solutionrelative:semana66\\forms\\formcurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\forms\\formcurso.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|solutionrelative:semana66\\forms\\formcurso.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\forms\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|solutionrelative:semana66\\forms\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\forms\\formprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{164EED20-5C58-445F-A259-BEBB97AF507C}|semana66\\semana66.csproj|solutionrelative:semana66\\forms\\formprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProfesorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\repositories\\ProfesorRepository.cs",
+              "RelativeDocumentMoniker": "semana66\\repositories\\ProfesorRepository.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\repositories\\ProfesorRepository.cs",
+              "RelativeToolTip": "semana66\\repositories\\ProfesorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T10:52:18.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReporteService.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\services\\ReporteService.cs",
+              "RelativeDocumentMoniker": "semana66\\services\\ReporteService.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\services\\ReporteService.cs",
+              "RelativeToolTip": "semana66\\services\\ReporteService.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAqwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T10:55:27.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfesorService.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\services\\ProfesorService.cs",
+              "RelativeDocumentMoniker": "semana66\\services\\ProfesorService.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\services\\ProfesorService.cs",
+              "RelativeToolTip": "semana66\\services\\ProfesorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T01:15:00.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormReporte.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\forms\\FormReporte.cs",
+              "RelativeDocumentMoniker": "semana66\\forms\\FormReporte.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\forms\\FormReporte.cs [Design]",
+              "RelativeToolTip": "semana66\\forms\\FormReporte.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T11:21:30.667Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormReporte.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\forms\\FormReporte.cs",
+              "RelativeDocumentMoniker": "semana66\\forms\\FormReporte.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\forms\\FormReporte.cs",
+              "RelativeToolTip": "semana66\\forms\\FormReporte.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAvwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T11:25:23.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\entities\\Profesor.cs",
+              "RelativeDocumentMoniker": "semana66\\entities\\Profesor.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\entities\\Profesor.cs",
+              "RelativeToolTip": "semana66\\entities\\Profesor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T23:45:13.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CursoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\repositories\\CursoRepository.cs",
+              "RelativeDocumentMoniker": "semana66\\repositories\\CursoRepository.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\repositories\\CursoRepository.cs",
+              "RelativeToolTip": "semana66\\repositories\\CursoRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T23:42:37.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\entities\\Curso.cs",
+              "RelativeDocumentMoniker": "semana66\\entities\\Curso.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\entities\\Curso.cs",
+              "RelativeToolTip": "semana66\\entities\\Curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T23:45:27.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CursoService.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\services\\CursoService.cs",
+              "RelativeDocumentMoniker": "semana66\\services\\CursoService.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\services\\CursoService.cs",
+              "RelativeToolTip": "semana66\\services\\CursoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T23:34:53.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormProfesor.resx",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\forms\\FormProfesor.resx",
+              "RelativeDocumentMoniker": "semana66\\forms\\FormProfesor.resx",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\forms\\FormProfesor.resx",
+              "RelativeToolTip": "semana66\\forms\\FormProfesor.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-14T02:25:28.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormCurso.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\forms\\FormCurso.cs",
+              "RelativeDocumentMoniker": "semana66\\forms\\FormCurso.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\forms\\FormCurso.cs [Design]",
+              "RelativeToolTip": "semana66\\forms\\FormCurso.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T16:50:50.852Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormCurso.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\forms\\FormCurso.cs",
+              "RelativeDocumentMoniker": "semana66\\forms\\FormCurso.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\forms\\FormCurso.cs",
+              "RelativeToolTip": "semana66\\forms\\FormCurso.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T23:35:06.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormProfesor.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\forms\\FormProfesor.Designer.cs",
+              "RelativeDocumentMoniker": "semana66\\forms\\FormProfesor.Designer.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\forms\\FormProfesor.Designer.cs",
+              "RelativeToolTip": "semana66\\forms\\FormProfesor.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T11:21:28.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormCurso.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\forms\\FormCurso.Designer.cs",
+              "RelativeDocumentMoniker": "semana66\\forms\\FormCurso.Designer.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\forms\\FormCurso.Designer.cs",
+              "RelativeToolTip": "semana66\\forms\\FormCurso.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T16:50:48.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\forms\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "semana66\\forms\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\forms\\FormPrincipal.cs [Design]",
+              "RelativeToolTip": "semana66\\forms\\FormPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T11:25:12.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormProfesor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\forms\\FormProfesor.cs",
+              "RelativeDocumentMoniker": "semana66\\forms\\FormProfesor.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\semana66\\semana66\\forms\\FormProfesor.cs [Design]",
+              "RelativeToolTip": "semana66\\forms\\FormProfesor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T11:21:49.296Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

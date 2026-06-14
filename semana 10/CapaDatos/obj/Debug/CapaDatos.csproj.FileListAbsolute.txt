@@ -1,0 +1,12 @@
+C:\Users\MAFER\Documents\talleres-funda\semana 10\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\MAFER\Documents\talleres-funda\semana 10\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\MAFER\Documents\talleres-funda\semana 10\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\MAFER\Documents\talleres-funda\semana 10\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\MAFER\Documents\talleres-funda\semana 10\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MAFER\Documents\talleres-funda\semana 10\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\MAFER\Documents\talleres-funda\semana 10\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MAFER\Documents\talleres-funda\semana 10\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\MAFER\Documents\talleres-funda\semana 10\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\MAFER\Documents\talleres-funda\semana 10\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\MAFER\Documents\talleres-funda\semana 10\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\MAFER\Documents\talleres-funda\semana 10\CapaDatos\obj\Debug\CapaDatos.pdb

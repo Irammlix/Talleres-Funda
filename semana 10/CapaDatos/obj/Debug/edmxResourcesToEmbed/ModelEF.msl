@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="dbSemana10ModelStoreContainer" CdmEntityContainer="dbSemana10Entities">
+    <EntitySetMapping Name="Alumno">
+      <EntityTypeMapping TypeName="dbSemana10Model.Alumno">
+        <MappingFragment StoreEntitySet="Alumno">
+          <ScalarProperty Name="Eliminado" ColumnName="Eliminado" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Codigo" ColumnName="Codigo" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="PromedioTA" ColumnName="PromedioTA" />
+          <ScalarProperty Name="PC2" ColumnName="PC2" />
+          <ScalarProperty Name="PromedioFinalPC2" ColumnName="PromedioFinalPC2" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Profesor">
+      <EntityTypeMapping TypeName="dbSemana10Model.Profesor">
+        <MappingFragment StoreEntitySet="Profesor">
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+          <ScalarProperty Name="Especializacion" ColumnName="Especializacion" />
+          <ScalarProperty Name="FechaContrato" ColumnName="FechaContrato" />
+          <ScalarProperty Name="Apellidos" ColumnName="Apellidos" />
+          <ScalarProperty Name="Nombres" ColumnName="Nombres" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

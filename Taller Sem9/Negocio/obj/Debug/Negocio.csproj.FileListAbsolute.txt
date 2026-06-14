@@ -1,0 +1,11 @@
+C:\Users\MAFER\Documents\talleres-funda\Taller Sem9\Negocio\bin\Debug\Negocio.dll
+C:\Users\MAFER\Documents\talleres-funda\Taller Sem9\Negocio\bin\Debug\Negocio.pdb
+C:\Users\MAFER\Documents\talleres-funda\Taller Sem9\Negocio\bin\Debug\Datos.dll
+C:\Users\MAFER\Documents\talleres-funda\Taller Sem9\Negocio\bin\Debug\Entidades.dll
+C:\Users\MAFER\Documents\talleres-funda\Taller Sem9\Negocio\bin\Debug\Datos.pdb
+C:\Users\MAFER\Documents\talleres-funda\Taller Sem9\Negocio\bin\Debug\Entidades.pdb
+C:\Users\MAFER\Documents\talleres-funda\Taller Sem9\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\MAFER\Documents\talleres-funda\Taller Sem9\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\MAFER\Documents\talleres-funda\Taller Sem9\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\MAFER\Documents\talleres-funda\Taller Sem9\Negocio\obj\Debug\Negocio.dll
+C:\Users\MAFER\Documents\talleres-funda\Taller Sem9\Negocio\obj\Debug\Negocio.pdb

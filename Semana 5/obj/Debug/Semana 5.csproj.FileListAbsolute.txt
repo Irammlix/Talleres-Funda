@@ -1,0 +1,13 @@
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana 5\bin\Debug\Semana 5.exe.config
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana 5\bin\Debug\Semana 5.exe
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana 5\bin\Debug\Semana 5.pdb
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana 5\obj\Debug\Semana 5.csproj.AssemblyReference.cache
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana 5\obj\Debug\Semana_5.FormEntrenador.resources
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana 5\obj\Debug\Semana_5.FormPokemon.resources
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana 5\obj\Debug\Semana_5.FormPrincipal.resources
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana 5\obj\Debug\Semana_5.FormReporte.resources
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana 5\obj\Debug\Semana_5.Properties.Resources.resources
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana 5\obj\Debug\Semana 5.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana 5\obj\Debug\Semana 5.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana 5\obj\Debug\Semana 5.exe
+C:\Users\Maria\Desktop\Funda de Sistemas - Talleres\Semana 5\obj\Debug\Semana 5.pdb

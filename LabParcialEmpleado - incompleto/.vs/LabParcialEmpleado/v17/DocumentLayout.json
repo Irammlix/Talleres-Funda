@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9712EE9D-230E-4092-8915-C015F3D56535}|LabParcialEmpleado.csproj|c:\\users\\mafer\\documents\\talleres-funda\\labparcialempleado - incompleto\\forms\\formempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9712EE9D-230E-4092-8915-C015F3D56535}|LabParcialEmpleado.csproj|solutionrelative:forms\\formempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9712EE9D-230E-4092-8915-C015F3D56535}|LabParcialEmpleado.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9712EE9D-230E-4092-8915-C015F3D56535}|LabParcialEmpleado.csproj|solutionrelative:controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9712EE9D-230E-4092-8915-C015F3D56535}|LabParcialEmpleado.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9712EE9D-230E-4092-8915-C015F3D56535}|LabParcialEmpleado.csproj|solutionrelative:controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9712EE9D-230E-4092-8915-C015F3D56535}|LabParcialEmpleado.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\forms\\formempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9712EE9D-230E-4092-8915-C015F3D56535}|LabParcialEmpleado.csproj|solutionrelative:forms\\formempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9712EE9D-230E-4092-8915-C015F3D56535}|LabParcialEmpleado.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9712EE9D-230E-4092-8915-C015F3D56535}|LabParcialEmpleado.csproj|solutionrelative:entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9712EE9D-230E-4092-8915-C015F3D56535}|LabParcialEmpleado.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\entities\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9712EE9D-230E-4092-8915-C015F3D56535}|LabParcialEmpleado.csproj|solutionrelative:entities\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9712EE9D-230E-4092-8915-C015F3D56535}|LabParcialEmpleado.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9712EE9D-230E-4092-8915-C015F3D56535}|LabParcialEmpleado.csproj|solutionrelative:controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9712EE9D-230E-4092-8915-C015F3D56535}|LabParcialEmpleado.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\forms\\formempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9712EE9D-230E-4092-8915-C015F3D56535}|LabParcialEmpleado.csproj|solutionrelative:forms\\formempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9712EE9D-230E-4092-8915-C015F3D56535}|LabParcialEmpleado.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\forms\\formreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9712EE9D-230E-4092-8915-C015F3D56535}|LabParcialEmpleado.csproj|solutionrelative:forms\\formreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9712EE9D-230E-4092-8915-C015F3D56535}|LabParcialEmpleado.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\forms\\formreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9712EE9D-230E-4092-8915-C015F3D56535}|LabParcialEmpleado.csproj|solutionrelative:forms\\formreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9712EE9D-230E-4092-8915-C015F3D56535}|LabParcialEmpleado.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\forms\\formempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9712EE9D-230E-4092-8915-C015F3D56535}|LabParcialEmpleado.csproj|solutionrelative:forms\\formempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9712EE9D-230E-4092-8915-C015F3D56535}|LabParcialEmpleado.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9712EE9D-230E-4092-8915-C015F3D56535}|LabParcialEmpleado.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9712EE9D-230E-4092-8915-C015F3D56535}|LabParcialEmpleado.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\forms\\formempresa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9712EE9D-230E-4092-8915-C015F3D56535}|LabParcialEmpleado.csproj|solutionrelative:forms\\formempresa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\forms\\FormEmpleado.cs",
+              "RelativeDocumentMoniker": "forms\\FormEmpleado.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\forms\\FormEmpleado.cs",
+              "RelativeToolTip": "forms\\FormEmpleado.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwFAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:44:52.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormEmpleado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\forms\\FormEmpleado.cs",
+              "RelativeDocumentMoniker": "forms\\FormEmpleado.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\forms\\FormEmpleado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "forms\\FormEmpleado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:44:50.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:43:37.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReporteController.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\controllers\\ReporteController.cs",
+              "RelativeDocumentMoniker": "controllers\\ReporteController.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\controllers\\ReporteController.cs",
+              "RelativeToolTip": "controllers\\ReporteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T02:08:49.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\entities\\Empresa.cs",
+              "RelativeDocumentMoniker": "entities\\Empresa.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\entities\\Empresa.cs",
+              "RelativeToolTip": "entities\\Empresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T02:02:06.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmpresaController.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\controllers\\EmpresaController.cs",
+              "RelativeDocumentMoniker": "controllers\\EmpresaController.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\controllers\\EmpresaController.cs",
+              "RelativeToolTip": "controllers\\EmpresaController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:44:32.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\entities\\Empleado.cs",
+              "RelativeDocumentMoniker": "entities\\Empleado.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\entities\\Empleado.cs",
+              "RelativeToolTip": "entities\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T02:02:21.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormEmpresa.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\forms\\FormEmpresa.cs",
+              "RelativeDocumentMoniker": "forms\\FormEmpresa.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\forms\\FormEmpresa.cs [Dise\u00F1o]",
+              "RelativeToolTip": "forms\\FormEmpresa.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:45:32.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormReporte.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\forms\\FormReporte.cs",
+              "RelativeDocumentMoniker": "forms\\FormReporte.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\forms\\FormReporte.cs",
+              "RelativeToolTip": "forms\\FormReporte.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T04:18:52.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormReporte.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\forms\\FormReporte.cs",
+              "RelativeDocumentMoniker": "forms\\FormReporte.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\forms\\FormReporte.cs [Dise\u00F1o]",
+              "RelativeToolTip": "forms\\FormReporte.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T03:40:25.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormEmpresa.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\forms\\FormEmpresa.cs",
+              "RelativeDocumentMoniker": "forms\\FormEmpresa.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\forms\\FormEmpresa.cs",
+              "RelativeToolTip": "forms\\FormEmpresa.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAD4v2MAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:45:34.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-19T04:23:12.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormEmpresa.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\forms\\FormEmpresa.Designer.cs",
+              "RelativeDocumentMoniker": "forms\\FormEmpresa.Designer.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\LabParcialEmpleado - incompleto\\forms\\FormEmpresa.Designer.cs",
+              "RelativeToolTip": "forms\\FormEmpresa.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T03:40:27.441Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

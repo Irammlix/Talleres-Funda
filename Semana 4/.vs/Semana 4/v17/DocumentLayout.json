@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\Semana 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8277F-CD27-47C5-9134-26D502F3B545}|Semana 4.csproj|C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\Semana 4\\cotrollers\\repartidorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D8277F-CD27-47C5-9134-26D502F3B545}|Semana 4.csproj|solutionrelative:cotrollers\\repartidorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8277F-CD27-47C5-9134-26D502F3B545}|Semana 4.csproj|C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\Semana 4\\entities\\repartidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D8277F-CD27-47C5-9134-26D502F3B545}|Semana 4.csproj|solutionrelative:entities\\repartidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8277F-CD27-47C5-9134-26D502F3B545}|Semana 4.csproj|C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\Semana 4\\forms\\formrepartidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D8277F-CD27-47C5-9134-26D502F3B545}|Semana 4.csproj|solutionrelative:forms\\formrepartidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8277F-CD27-47C5-9134-26D502F3B545}|Semana 4.csproj|c:\\users\\maria\\desktop\\funda de sistemas - talleres\\semana 4\\forms\\formcoordinador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D8277F-CD27-47C5-9134-26D502F3B545}|Semana 4.csproj|solutionrelative:forms\\formcoordinador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8277F-CD27-47C5-9134-26D502F3B545}|Semana 4.csproj|C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\Semana 4\\entities\\coordinador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D8277F-CD27-47C5-9134-26D502F3B545}|Semana 4.csproj|solutionrelative:entities\\coordinador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8277F-CD27-47C5-9134-26D502F3B545}|Semana 4.csproj|c:\\users\\maria\\desktop\\funda de sistemas - talleres\\semana 4\\forms\\formcoordinador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4D8277F-CD27-47C5-9134-26D502F3B545}|Semana 4.csproj|solutionrelative:forms\\formcoordinador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8277F-CD27-47C5-9134-26D502F3B545}|Semana 4.csproj|C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\Semana 4\\cotrollers\\coordinadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D8277F-CD27-47C5-9134-26D502F3B545}|Semana 4.csproj|solutionrelative:cotrollers\\coordinadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8277F-CD27-47C5-9134-26D502F3B545}|Semana 4.csproj|C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\Semana 4\\forms\\formrepartidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4D8277F-CD27-47C5-9134-26D502F3B545}|Semana 4.csproj|solutionrelative:forms\\formrepartidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D8277F-CD27-47C5-9134-26D502F3B545}|Semana 4.csproj|C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\Semana 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D8277F-CD27-47C5-9134-26D502F3B545}|Semana 4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CoordinadorController.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\Semana 4\\cotrollers\\CoordinadorController.cs",
+              "RelativeDocumentMoniker": "cotrollers\\CoordinadorController.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\Semana 4\\cotrollers\\CoordinadorController.cs",
+              "RelativeToolTip": "cotrollers\\CoordinadorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T21:39:59.494Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormRepartidor.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\Semana 4\\forms\\FormRepartidor.cs",
+              "RelativeDocumentMoniker": "forms\\FormRepartidor.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\Semana 4\\forms\\FormRepartidor.cs",
+              "RelativeToolTip": "forms\\FormRepartidor.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwGcAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T02:22:15.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repartidor.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\Semana 4\\entities\\Repartidor.cs",
+              "RelativeDocumentMoniker": "entities\\Repartidor.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\Semana 4\\entities\\Repartidor.cs",
+              "RelativeToolTip": "entities\\Repartidor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T21:39:40.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepartidorController.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\Semana 4\\cotrollers\\RepartidorController.cs",
+              "RelativeDocumentMoniker": "cotrollers\\RepartidorController.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\Semana 4\\cotrollers\\RepartidorController.cs",
+              "RelativeToolTip": "cotrollers\\RepartidorController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwBoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T21:40:11.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormCoordinador.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\Semana 4\\forms\\FormCoordinador.cs",
+              "RelativeDocumentMoniker": "forms\\FormCoordinador.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\Semana 4\\forms\\FormCoordinador.cs",
+              "RelativeToolTip": "forms\\FormCoordinador.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T16:46:05.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Coordinador.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\Semana 4\\entities\\Coordinador.cs",
+              "RelativeDocumentMoniker": "entities\\Coordinador.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\Semana 4\\entities\\Coordinador.cs",
+              "RelativeToolTip": "entities\\Coordinador.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T21:39:30.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormCoordinador.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\Semana 4\\forms\\FormCoordinador.cs",
+              "RelativeDocumentMoniker": "forms\\FormCoordinador.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\Semana 4\\forms\\FormCoordinador.cs [Design]",
+              "RelativeToolTip": "forms\\FormCoordinador.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T22:29:01.789Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormRepartidor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\Semana 4\\forms\\FormRepartidor.cs",
+              "RelativeDocumentMoniker": "forms\\FormRepartidor.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\Semana 4\\forms\\FormRepartidor.cs [Design]",
+              "RelativeToolTip": "forms\\FormRepartidor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T21:39:19.898Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\Semana 4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\Funda de Sistemas - Talleres\\Semana 4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T21:45:29.103Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

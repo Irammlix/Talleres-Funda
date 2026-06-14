@@ -1,0 +1,372 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B21F8A-5DCD-44AD-BB20-DA6A9FE00FFB}|CapaDatos\\CapaDatos.csproj|c:\\users\\mafer\\documents\\talleres-funda\\semana 10\\capadatos\\dalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B21F8A-5DCD-44AD-BB20-DA6A9FE00FFB}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\dalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF6E9BC-5D9D-4CF3-937E-2EA46DD478BE}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\capanegocio\\nalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF6E9BC-5D9D-4CF3-937E-2EA46DD478BE}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\nalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF6E9BC-5D9D-4CF3-937E-2EA46DD478BE}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\capanegocio\\nprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF6E9BC-5D9D-4CF3-937E-2EA46DD478BE}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\nprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3227C6-00B0-4694-BEAA-CF121D693ED7}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\capapresentacion\\formreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D3227C6-00B0-4694-BEAA-CF121D693ED7}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\formreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3227C6-00B0-4694-BEAA-CF121D693ED7}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\capapresentacion\\formprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3227C6-00B0-4694-BEAA-CF121D693ED7}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\formprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3227C6-00B0-4694-BEAA-CF121D693ED7}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\capapresentacion\\formprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D3227C6-00B0-4694-BEAA-CF121D693ED7}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\formprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3227C6-00B0-4694-BEAA-CF121D693ED7}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\capapresentacion\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3227C6-00B0-4694-BEAA-CF121D693ED7}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3227C6-00B0-4694-BEAA-CF121D693ED7}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\capapresentacion\\formalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3227C6-00B0-4694-BEAA-CF121D693ED7}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\formalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3227C6-00B0-4694-BEAA-CF121D693ED7}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\capapresentacion\\formreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3227C6-00B0-4694-BEAA-CF121D693ED7}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\formreporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3227C6-00B0-4694-BEAA-CF121D693ED7}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\capapresentacion\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D3227C6-00B0-4694-BEAA-CF121D693ED7}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B21F8A-5DCD-44AD-BB20-DA6A9FE00FFB}|CapaDatos\\CapaDatos.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\capadatos\\dprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B21F8A-5DCD-44AD-BB20-DA6A9FE00FFB}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\dprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3227C6-00B0-4694-BEAA-CF121D693ED7}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\capapresentacion\\formalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D3227C6-00B0-4694-BEAA-CF121D693ED7}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\formalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3227C6-00B0-4694-BEAA-CF121D693ED7}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\capapresentacion\\formprofesor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3227C6-00B0-4694-BEAA-CF121D693ED7}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\formprofesor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B21F8A-5DCD-44AD-BB20-DA6A9FE00FFB}|CapaDatos\\CapaDatos.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\capadatos\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B21F8A-5DCD-44AD-BB20-DA6A9FE00FFB}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B21F8A-5DCD-44AD-BB20-DA6A9FE00FFB}|CapaDatos\\CapaDatos.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\capadatos\\modelef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{F6B21F8A-5DCD-44AD-BB20-DA6A9FE00FFB}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\modelef.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B21F8A-5DCD-44AD-BB20-DA6A9FE00FFB}|CapaDatos\\CapaDatos.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\capadatos\\modelef.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B21F8A-5DCD-44AD-BB20-DA6A9FE00FFB}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\modelef.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B21F8A-5DCD-44AD-BB20-DA6A9FE00FFB}|CapaDatos\\CapaDatos.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\capadatos\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B21F8A-5DCD-44AD-BB20-DA6A9FE00FFB}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B21F8A-5DCD-44AD-BB20-DA6A9FE00FFB}|CapaDatos\\CapaDatos.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\capadatos\\modelef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B21F8A-5DCD-44AD-BB20-DA6A9FE00FFB}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\modelef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3227C6-00B0-4694-BEAA-CF121D693ED7}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\capapresentacion\\formalumno.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3227C6-00B0-4694-BEAA-CF121D693ED7}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\formalumno.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B21F8A-5DCD-44AD-BB20-DA6A9FE00FFB}|CapaDatos\\CapaDatos.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\capadatos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F6B21F8A-5DCD-44AD-BB20-DA6A9FE00FFB}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3227C6-00B0-4694-BEAA-CF121D693ED7}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4D3227C6-00B0-4694-BEAA-CF121D693ED7}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormProfesor.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaPresentacion\\FormProfesor.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormProfesor.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaPresentacion\\FormProfesor.cs",
+              "RelativeToolTip": "CapaPresentacion\\FormProfesor.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T04:47:41.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormAlumno.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaPresentacion\\FormAlumno.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormAlumno.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaPresentacion\\FormAlumno.cs",
+              "RelativeToolTip": "CapaPresentacion\\FormAlumno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T23:15:15.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DAlumno.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaDatos\\DAlumno.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DAlumno.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaDatos\\DAlumno.cs",
+              "RelativeToolTip": "CapaDatos\\DAlumno.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwGIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T00:46:41.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormReporte.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaPresentacion\\FormReporte.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormReporte.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaPresentacion\\FormReporte.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FormReporte.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T00:58:35.28Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NProfesor.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaNegocio\\NProfesor.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\NProfesor.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaNegocio\\NProfesor.cs",
+              "RelativeToolTip": "CapaNegocio\\NProfesor.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T04:27:50.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NAlumno.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaNegocio\\NAlumno.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\NAlumno.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaNegocio\\NAlumno.cs",
+              "RelativeToolTip": "CapaNegocio\\NAlumno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T00:55:41.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormReporte.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaPresentacion\\FormReporte.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormReporte.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaPresentacion\\FormReporte.cs",
+              "RelativeToolTip": "CapaPresentacion\\FormReporte.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwCYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T01:00:10.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormProfesor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaPresentacion\\FormProfesor.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormProfesor.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaPresentacion\\FormProfesor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FormProfesor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T04:28:03.31Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaPresentacion\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaPresentacion\\FormPrincipal.cs",
+              "RelativeToolTip": "CapaPresentacion\\FormPrincipal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T23:10:42.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaPresentacion\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaPresentacion\\FormPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FormPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T00:59:05.27Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DProfesor.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaDatos\\DProfesor.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DProfesor.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaDatos\\DProfesor.cs",
+              "RelativeToolTip": "CapaDatos\\DProfesor.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T04:27:40.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormAlumno.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaPresentacion\\FormAlumno.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormAlumno.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaPresentacion\\FormAlumno.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FormAlumno.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T23:15:14.46Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormProfesor.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaPresentacion\\FormProfesor.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormProfesor.Designer.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaPresentacion\\FormProfesor.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\FormProfesor.Designer.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAhwKEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T04:47:54.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaDatos\\Profesor.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Profesor.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaDatos\\Profesor.cs",
+              "RelativeToolTip": "CapaDatos\\Profesor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T04:07:34.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ModelEF.Context.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaDatos\\ModelEF.Context.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\ModelEF.Context.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaDatos\\ModelEF.Context.cs",
+              "RelativeToolTip": "CapaDatos\\ModelEF.Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T04:06:52.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ModelEF.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaDatos\\ModelEF.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\ModelEF.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaDatos\\ModelEF.cs",
+              "RelativeToolTip": "CapaDatos\\ModelEF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T04:05:39.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ModelEF.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaDatos\\ModelEF.edmx",
+              "RelativeDocumentMoniker": "CapaDatos\\ModelEF.edmx",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaDatos\\ModelEF.edmx [Diagram1]",
+              "RelativeToolTip": "CapaDatos\\ModelEF.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-06-09T04:04:40.137Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaDatos\\Alumno.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Alumno.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaDatos\\Alumno.cs",
+              "RelativeToolTip": "CapaDatos\\Alumno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T02:01:14.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormAlumno.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaPresentacion\\FormAlumno.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormAlumno.Designer.cs",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaPresentacion\\FormAlumno.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\FormAlumno.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwCgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T23:10:24.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaPresentacion\\App.config",
+              "RelativeDocumentMoniker": "CapaPresentacion\\App.config",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaPresentacion\\App.config",
+              "RelativeToolTip": "CapaPresentacion\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-06-08T23:28:33.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.Config",
+              "DocumentMoniker": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaDatos\\App.Config",
+              "RelativeDocumentMoniker": "CapaDatos\\App.Config",
+              "ToolTip": "C:\\Users\\MAFER\\Documents\\talleres-funda\\semana 10\\CapaDatos\\App.Config",
+              "RelativeToolTip": "CapaDatos\\App.Config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-06-08T23:28:01.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
